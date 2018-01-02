@@ -5,7 +5,7 @@ This gem is a simple Paperclip processor which uses rmagick/ImageMagik to conver
 ## Requirements ##
 
 * [Paperclip][0] ~> 5.0.0
-* [rmagick][2]
+* [rmagick][2] 2.16.0
 
 ## Installation ##
 
@@ -21,9 +21,10 @@ to your Gemfile and run
    
 in your console. Bundler should take care of all the rest.
 
-## SwfTools Instalation ##
+or else, you can just download the file and copy it to paperclip processors folder of your project.
+## rmagick Instalation ##
 
-Install [rmagick][2] from source or using your favorite package manager. On OS X, the easiest way to do it is by using [Homebrew][3].
+Install [rmagick][2] from source or using your favorite package manager.
     
 Various Linux distributions should use similar methods with their respected package managers.
 
