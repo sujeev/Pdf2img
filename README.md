@@ -47,3 +47,4 @@ Be warned, this gem is released as early beta version. If you are using it you a
 Have fun with it and drop me a note if you like it.
 
 [0]: https://github.com/thoughtbot/paperclip
+[2]: https://github.com/rmagick/rmagick
